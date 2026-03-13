@@ -9,7 +9,7 @@
 
 ## 🔗 相关链接
 
-← [返回监控页面](https://waynefwj.github.io/kimi-claw-status/) | [SRPG 战棋知识库](https://github.com/WayneFWJ/srpg-knowledge-base)
+← [返回监控页面](https://waynefwj.github.io/kimi-claw-status/) | [📱 网页版课堂](https://waynefwj.github.io/sakurai-classroom/) | [SRPG 战棋知识库](https://github.com/WayneFWJ/srpg-knowledge-base)
 
 ---
 
