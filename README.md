@@ -7,6 +7,12 @@
 
 ---
 
+## 🔗 相关链接
+
+← [返回监控页面](https://waynefwj.github.io/kimi-claw-status/) | [SRPG 战棋知识库](https://github.com/WayneFWJ/srpg-knowledge-base)
+
+---
+
 ## 📚 课程简介
 
 「桜井政博のゲーム作るには」是由著名游戏制作人**樱井政博**（代表作：《星之卡比》系列、《任天堂明星大乱斗》系列）开设的YouTube教育频道。
